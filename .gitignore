@@ -1,0 +1,11 @@
+runtime.local.json
+node_modules/
+__pycache__/
+*.pyc
+.env*
+runs/
+.research-images/
+.build/
+renders/
+output/
+.DS_Store

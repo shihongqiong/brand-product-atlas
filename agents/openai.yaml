@@ -1,0 +1,4 @@
+interface:
+  display_name: "品牌产品图谱 Agent"
+  short_description: "输入品牌名称，梳理官网产品架构，每小类选六张官方产品图并生成可编辑PPT"
+  default_prompt: "使用 $brand-product-atlas 分析 Ubiquiti 的官网产品架构，每个最细类别展示六个不同产品的官方图片，输出可编辑 PPT。"
